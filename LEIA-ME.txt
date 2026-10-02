@@ -1,0 +1,13 @@
+MOTA BELTRAME — SITE
+
+Para abrir a versão salva, abra index.html no navegador.
+Mantenha styles.css, script.js e a pasta assets junto do arquivo index.html.
+
+Conteúdo: apresentação, empresa, serviços, galeria ampliável e contato.
+WhatsApp: +55 11 97374-9986.
+Região: estado de São Paulo.
+
+As fotos foram otimizadas em WebP. A fonte usa Google Fonts com alternativa local.
+Não há formulário com armazenamento de dados. Os botões abrem o WhatsApp com uma mensagem sugerida; o visitante decide quando enviar.
+
+Publicação online pendente. A prévia local funciona no computador em que foi iniciada.
